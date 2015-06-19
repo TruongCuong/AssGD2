@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+<link rel="stylesheet" type="text/css" href="../css/Menu.css"/>
+<link rel="stylesheet" type="text/css" href="../css/Style.css"/>
+</head>
+
+<body>
+
+<div id="Main">
+  <div id="Header">
+        <div id="menutren">
+        <div id="dangnhap">
+        <table width="100%" border="0" cellpadding="4" cellspacing="0">
+            <tbody>
+              <tr style="text-align: left;">
+                <td><a href="dangnhap.html"> Đăng nhập </a></td>
+                <td> | </td>
+                <td><a href="dangky.html">Đăng ký</a></td>
+            </tbody>
+          </table>
+        </div>  
+	</div>
+        <div id="banner"><img src="../images/banner.jpg" width="900" height="206" alt="banner" /></div>
+        <div id="menuchinh">
+        
+        <ul class="menu">
+     
+            <li><a href="index.html">Trang chủ</a></li>
+            <li><a href="gioithieu.html">Giới thiệu</a></li>
+            <li><a href="tintuc.html">Tin tức</a>
+         
+                <ul>
+                    <li><a href="ngoaihanganh.html" class="css3">Bóng đá ngoại hạng Anh</a></li>
+                    <li><a href="tindocnhieu.html" class="html5">Tin tức đọc nhiều nhất</a></li>
+                    <li><a href="tinchuyennhuong.html" class="template">Tin chuyển nhượng</a></li>
+                </ul>
+         
+            </li>
+            <li><a href="lichthidau.html">Lịch thi đấu</a></li>
+            <li><a href="caulacbo.html">Câu lạc bộ</a></li>
+            <li><a href="lienhe.html">Liên hệ</a></li>
+     
+        </ul>
+        
+        </div>
+      </div>
+      <!-- TemplateBeginEditable name="Vùng chỉnh sửa" -->
+      <div id="Content"></div>
+      <!-- TemplateEndEditable -->
+      <div id="Footer">
+        <div id="menuduoi">
+        <ul class="menu">
+            <li><a href="index.html">Trang chủ</a></li>
+            <li><a href="gioithieu.html">Giới thiệu</a></li>
+            <li><a href="tintuc.html">Tin tức</a></li>
+            <li><a href="lichthidau.html">Lịch thi đấu</a></li>
+            <li><a href="caulacbo.html">Câu lạc bộ</a></li>
+            <li><a href="lienhe.html">Liên hệ</a></li>
+        </ul>
+    </div>
+    <div id="noidungfooter">
+    		<div id="hinh"><img src="../images/hin.jpg" width="300" height="120" alt="hinh" /></div>
+     		<div id="vanban">
+            CÔNG TY TNHH VĂN CƯỜNG <br />
+            Địa chỉ : Phúc Trạch - Bố Trạch - Quảng Bình<br />
+            Email : cuongtvpd01123@fpt.edu.vn<br />
+            Điện thoại : 01695 253 415
+            </div>
+    </div>
+            <div id="dieuhuong">
+              <table width="100%" border="0" cellpadding="4" cellspacing="0">
+                <tbody>
+                  <tr style="text-align: center;">
+                    <td><a href="gioithieu.html"> Giới thiệu </a></td>
+                    <td> | </td>
+                    <td><a href="#top">Về đầu trang</a></td>
+                    <td>|</td>
+                    <td><a href="lienhequangcao.html">Liên hệ quảng cáo</a></td>
+                  </tr>
+                </tbody>
+              </table>
+        	</div>
+      </div>
+   </div>
+
+</body>
+</html>
